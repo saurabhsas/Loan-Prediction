@@ -1,7 +1,7 @@
 # Loan-Prediction
-Applied Machine Learning Algorithms.
+**Applied Machine Learning Algorithms.**
 
-Here we will apply the data preprocessing steps and a set of machine learning algorithms with hyperparameter tunning.
+_Here we will apply the data preprocessing steps and a set of machine learning algorithms with hyperparameter tunning._
 
 **Generic Steps are as follows:**
 
