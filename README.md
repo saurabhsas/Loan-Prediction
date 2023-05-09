@@ -6,9 +6,9 @@ Here we will apply the data preprocessing steps and a set of machine learning al
 **Generic Steps are as follows:**
 
 _Step1 : Access data and perform Exploratory Data Analysis (EDA)_
-  # Univariate Analysis
-  # Bi-variate Analysis
-  # Multi-variate Analysis
+  ##### Univariate Analysis
+  ##### Bi-variate Analysis
+  ##### Multi-variate Analysis
   
 _Step2 : Pre-processing Steps_
   # 2.1 Filling the missing values : Categorical with Mode and Continous with Mean
